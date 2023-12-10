@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T14:39:12.685Z" agent="5.0 (Windows)" etag="9_gMwzI5PWuG6lUu9YYX" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T14:42:46.650Z" agent="5.0 (Windows)" etag="Nhndh7RMOtAkrDTxyByy" version="20.8.1" type="github">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
-    <mxGraphModel dx="910" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="380" dy="202" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="" style="fillColor=#F6F6F6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
+        <mxCell id="2" value="" style="fillColor=#f6f6f6;strokeColor=none;shadow=0;gradientColor=none;fontSize=14;align=left;spacing=10;fontColor=#717171;9E9E9E;verticalAlign=top;spacingTop=-4;fontStyle=0;spacingLeft=40;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="110" width="820" height="590" as="geometry" />
         </mxCell>
         <mxCell id="90uzCrBlv5nifd-XemQz-56" value="&lt;div&gt;&lt;font color=&quot;#408080&quot;&gt;Bare&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#408080&quot;&gt;Metal&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#408080&quot;&gt;Esxi&lt;/font&gt;&lt;/div&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=#6c8ebf;shadow=0;dashed=0;fontSize=12;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#dae8fc;" parent="2" vertex="1">
@@ -43,6 +43,15 @@
         </mxCell>
         <mxCell id="Si_WO4W0rqk0Vrws_uRt-57" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_linux;" vertex="1" parent="Si_WO4W0rqk0Vrws_uRt-59">
           <mxGeometry x="12.5" y="440" width="85" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Si_WO4W0rqk0Vrws_uRt-71" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#408080;strokeColor=#ff8040;fillColor=#ff8000;" vertex="1" parent="Si_WO4W0rqk0Vrws_uRt-59">
+          <mxGeometry x="66" y="219" width="31" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Si_WO4W0rqk0Vrws_uRt-72" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#408080;strokeColor=#ff8040;fillColor=#ff8000;" vertex="1" parent="Si_WO4W0rqk0Vrws_uRt-59">
+          <mxGeometry x="66" y="359" width="31" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Si_WO4W0rqk0Vrws_uRt-73" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontColor=#408080;strokeColor=#ff8040;fillColor=#ff8000;" vertex="1" parent="Si_WO4W0rqk0Vrws_uRt-59">
+          <mxGeometry x="66.5" y="489" width="31" height="31" as="geometry" />
         </mxCell>
         <mxCell id="8" value="&lt;div&gt;Physical&amp;nbsp;&lt;/div&gt;&lt;div&gt;Server&lt;/div&gt;" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#F1F8E9;" parent="1" vertex="1">
           <mxGeometry x="70" y="110" width="110" height="580" as="geometry" />

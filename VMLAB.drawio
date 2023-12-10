@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T12:35:31.444Z" agent="5.0 (Windows)" etag="KXZ24wjihryXaburjzDL" version="20.8.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T12:35:45.529Z" agent="5.0 (Windows)" etag="TseyYXBDp_YZk3fr2_Ow" version="20.8.1" type="github">
   <diagram id="d1ab7348-05c3-a1e3-ca4d-12c340fd6b49" name="Page-1">
     <mxGraphModel dx="1274" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SiJHAPWBtLTxHEHgDM3I-56" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.vm_linux;" parent="2" vertex="1">
-          <mxGeometry x="179.99999999999997" y="130" width="57.2" height="55.2" as="geometry" />
+          <mxGeometry x="189.99999999999997" y="130" width="57.2" height="55.2" as="geometry" />
         </mxCell>
         <mxCell id="5" value="Storage" style="rounded=1;absoluteArcSize=1;arcSize=2;html=1;strokeColor=none;gradientColor=none;shadow=0;dashed=0;fontSize=12;fontColor=#9E9E9E;align=left;verticalAlign=top;spacing=10;spacingTop=-4;fillColor=#E1F5FE;" parent="1" vertex="1">
           <mxGeometry x="850" y="260" width="190" height="250" as="geometry" />
